@@ -1,4 +1,24 @@
-Here are some mini projects, which we've done during our current course "Web Technologien". Topics include: 
-1.Frontend: Html, Vue.js, Css, JS, Bootstrap.
-2.Backend: Node.js, MongoDB, Express.
-"Towards Connecting logic (Backend) with beauty (Frontend)... somehow it's a trivial thing :)"
+# hausaufgabe
+
+## Project setup
+```
+npm install
+```
+
+### Compiles and hot-reloads for development
+```
+npm run serve
+```
+
+### Compiles and minifies for production
+```
+npm run build
+```
+
+### Lints and fixes files
+```
+npm run lint
+```
+
+### Customize configuration
+See [Configuration Reference](https://cli.vuejs.org/config/).
